@@ -1,0 +1,3 @@
+# Ignore loaded plugins downloaded by Packer
+
+autoload/
