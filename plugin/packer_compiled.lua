@@ -77,9 +77,17 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/aidanhanda/.local/share/nvim/site/pack/packer/start/gruvbox-material"
   },
+  ["nightfox.nvim"] = {
+    loaded = true,
+    path = "/Users/aidanhanda/.local/share/nvim/site/pack/packer/start/nightfox.nvim"
+  },
   ["nvim-lspconfig"] = {
     loaded = true,
     path = "/Users/aidanhanda/.local/share/nvim/site/pack/packer/start/nvim-lspconfig"
+  },
+  ["nvim-treesitter"] = {
+    loaded = true,
+    path = "/Users/aidanhanda/.local/share/nvim/site/pack/packer/start/nvim-treesitter"
   },
   ["packer.nvim"] = {
     loaded = false,
@@ -97,10 +105,6 @@ _G.packer_plugins = {
   ["telescope.nvim"] = {
     loaded = true,
     path = "/Users/aidanhanda/.local/share/nvim/site/pack/packer/start/telescope.nvim"
-  },
-  treesitter = {
-    loaded = true,
-    path = "/Users/aidanhanda/.local/share/nvim/site/pack/packer/start/treesitter"
   },
   vim = {
     loaded = true,

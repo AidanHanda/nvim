@@ -6,6 +6,7 @@ return require('packer').startup(function()
   -- Color scheme
   use { 'sainnhe/gruvbox-material' }
   use { 'dracula/vim' }
+  use { 'EdenEast/nightfox.nvim' }
 
   -- Fuzzy finder
   use {
